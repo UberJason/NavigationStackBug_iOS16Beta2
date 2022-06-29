@@ -11,7 +11,7 @@ import SwiftUI
 struct NavigationStackBug_iOS16Beta2App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RootView()
         }
     }
 }
